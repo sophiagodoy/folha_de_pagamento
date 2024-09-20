@@ -1,0 +1,9 @@
+O objetivo deste trabalho é desenvolver um sistema de gestão de folha de pagamento de funcionários que permite a inserção, remoção e consulta de informações relacionadas aos colaboradores de uma empresa. 
+
+O sistema é projetado para:
+- Gerenciar Funcionários: Adicionar e remover funcionários do sistema, com a capacidade de registrar dados como matrícula, nome, código do cargo, número de faltas, volume de vendas (para vendedores) e salário fixo.
+- Calcular Salários: Calcular o salário fixo para vendedores com base no volume de vendas e para administrativos com base em um salário fixo informado, incluindo a aplicação de descontos por faltas e o cálculo do salário líquido após impostos.
+- Emitir Relatórios: Gerar relatórios detalhados, como a folha de pagamento individual de um funcionário, um relatório geral de todos os funcionários e destacar o funcionário com o maior salário líquido e aquele com o maior número de faltas.
+- Analisar Informações: Identificar o funcionário com o maior salário líquido e o funcionário com o maior número de faltas, fornecendo informações adicionais sobre descontos no salário devido às faltas.
+
+Este sistema é fundamental para a administração eficiente da folha de pagamento, garantindo precisão nos cálculos salariais e oferecendo insights sobre o desempenho e presença dos funcionários.
